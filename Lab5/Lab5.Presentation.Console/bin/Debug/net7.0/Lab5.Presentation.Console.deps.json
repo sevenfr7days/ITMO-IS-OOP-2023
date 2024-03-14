@@ -1,0 +1,170 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lab5.Presentation.Console/1.0.0": {
+        "dependencies": {
+          "Lab5.Application.Contracts": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
+          "SourceKit.Analyzers.Collections": "1.0.4",
+          "SourceKit.Analyzers.Enumerable": "1.0.4",
+          "SourceKit.Analyzers.MemberAccessibility": "1.0.4",
+          "SourceKit.Analyzers.Nullable": "1.0.4",
+          "SourceKit.Analyzers.Properties": "1.0.4",
+          "Spectre.Console": "0.48.1-preview.0.5",
+          "StyleCop.Analyzers": "1.2.0-beta.507"
+        },
+        "runtime": {
+          "Lab5.Presentation.Console.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+        "runtime": {
+          "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "SourceKit.Analyzers.Collections/1.0.4": {},
+      "SourceKit.Analyzers.Enumerable/1.0.4": {},
+      "SourceKit.Analyzers.MemberAccessibility/1.0.4": {},
+      "SourceKit.Analyzers.Nullable/1.0.4": {},
+      "SourceKit.Analyzers.Properties/1.0.4": {},
+      "Spectre.Console/0.48.1-preview.0.5": {
+        "dependencies": {
+          "System.Memory": "4.5.5"
+        },
+        "runtime": {
+          "lib/net7.0/Spectre.Console.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.48.1.0"
+          }
+        }
+      },
+      "StyleCop.Analyzers/1.2.0-beta.507": {
+        "dependencies": {
+          "StyleCop.Analyzers.Unstable": "1.2.0.507"
+        }
+      },
+      "StyleCop.Analyzers.Unstable/1.2.0.507": {},
+      "System.Memory/4.5.5": {},
+      "Lab5.Application.Contracts/1.0.0": {
+        "dependencies": {
+          "Lab5.Application.Models": "1.0.0",
+          "SourceKit.Analyzers.Collections": "1.0.4",
+          "SourceKit.Analyzers.Enumerable": "1.0.4",
+          "SourceKit.Analyzers.MemberAccessibility": "1.0.4",
+          "SourceKit.Analyzers.Nullable": "1.0.4",
+          "SourceKit.Analyzers.Properties": "1.0.4"
+        },
+        "runtime": {
+          "Lab5.Application.Contracts.dll": {}
+        }
+      },
+      "Lab5.Application.Models/1.0.0": {
+        "dependencies": {
+          "SourceKit.Analyzers.Collections": "1.0.4",
+          "SourceKit.Analyzers.Enumerable": "1.0.4",
+          "SourceKit.Analyzers.MemberAccessibility": "1.0.4",
+          "SourceKit.Analyzers.Nullable": "1.0.4",
+          "SourceKit.Analyzers.Properties": "1.0.4"
+        },
+        "runtime": {
+          "Lab5.Application.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab5.Presentation.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cjWrLkJXK0rs4zofsK4bSdg+jhDLTaxrkXu4gS6Y7MAlCvRyNNgwY/lJi5RDlQOnSZweHqoyvgvbdvQsRIW+hg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    },
+    "SourceKit.Analyzers.Collections/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jqOX386uBw2KIlzfqUT8gIb0shv1/OHSCfCnbAkaPnwd3pJy5T14avK8ojjqe9rQGFmgwpfAJGf/M8k3xlu/Nw==",
+      "path": "sourcekit.analyzers.collections/1.0.4",
+      "hashPath": "sourcekit.analyzers.collections.1.0.4.nupkg.sha512"
+    },
+    "SourceKit.Analyzers.Enumerable/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oMGo4HDWH4FH8ETcvIZxfCPXEgGg8RdeE6ouP7tAyoe9DOsmKYjOB1/nDfTFu45ksdbjTghYfu+DjH/1+SDxjw==",
+      "path": "sourcekit.analyzers.enumerable/1.0.4",
+      "hashPath": "sourcekit.analyzers.enumerable.1.0.4.nupkg.sha512"
+    },
+    "SourceKit.Analyzers.MemberAccessibility/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cVjo/Nlh/3DxWP40S8kAC+TMUPNhNRpT3aUyLJiONpVb4GriaYNRq+bLetXKwWuChnzENo7zjjqAV899nZFW3A==",
+      "path": "sourcekit.analyzers.memberaccessibility/1.0.4",
+      "hashPath": "sourcekit.analyzers.memberaccessibility.1.0.4.nupkg.sha512"
+    },
+    "SourceKit.Analyzers.Nullable/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5/CxEd/3IXqq8jWvcHr4heB/e61qfcyecPqjbZaLJjVI5YHTQrS4GBxUNsweYMX9gNt+w/OVziHxAxKCrc4xlQ==",
+      "path": "sourcekit.analyzers.nullable/1.0.4",
+      "hashPath": "sourcekit.analyzers.nullable.1.0.4.nupkg.sha512"
+    },
+    "SourceKit.Analyzers.Properties/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gyodJN2R2stTjz1Rtxg9YSAJtFfZqcVBhIIe3/sGB2sZpK1Xam78y9kUvLViwM2xMMHUXqAOP7Bzqe+LN/RRPg==",
+      "path": "sourcekit.analyzers.properties/1.0.4",
+      "hashPath": "sourcekit.analyzers.properties.1.0.4.nupkg.sha512"
+    },
+    "Spectre.Console/0.48.1-preview.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KidHJYWeVRB9H77rxzY6+X3BiG1b2ApG1V4Pj6wFKhrOKR6qjWT92y349QN755m5fyPaP116p8oxuxbWWBH38Q==",
+      "path": "spectre.console/0.48.1-preview.0.5",
+      "hashPath": "spectre.console.0.48.1-preview.0.5.nupkg.sha512"
+    },
+    "StyleCop.Analyzers/1.2.0-beta.507": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/FtugDT66cKJJ+GGH7rNpG6UDrT4iIWz45M6lrXXHobDUFDHw+q5VgkbiR+6ffTO564ge7w6fQh/eoQhVdJO8Q==",
+      "path": "stylecop.analyzers/1.2.0-beta.507",
+      "hashPath": "stylecop.analyzers.1.2.0-beta.507.nupkg.sha512"
+    },
+    "StyleCop.Analyzers.Unstable/1.2.0.507": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gTY3IQdRqDJ4hbhSA3e/R48oE8b/OiKfvwkt1QdNVfrJK2gMHBV8ldaHJ885jxWZfllK66soa/sdcjh9bX49Tw==",
+      "path": "stylecop.analyzers.unstable/1.2.0.507",
+      "hashPath": "stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512"
+    },
+    "System.Memory/4.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
+      "path": "system.memory/4.5.5",
+      "hashPath": "system.memory.4.5.5.nupkg.sha512"
+    },
+    "Lab5.Application.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab5.Application.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

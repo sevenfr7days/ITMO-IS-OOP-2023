@@ -1,0 +1,12 @@
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab2/bin/Debug/net7.0/Lab2.deps.json
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab2/bin/Debug/net7.0/Lab2.dll
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab2/bin/Debug/net7.0/Lab2.pdb
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab2/obj/Debug/net7.0/Lab2.csproj.AssemblyReference.cache
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab2/obj/Debug/net7.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab2/obj/Debug/net7.0/Lab2.AssemblyInfoInputs.cache
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab2/obj/Debug/net7.0/Lab2.AssemblyInfo.cs
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab2/obj/Debug/net7.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab2/obj/Debug/net7.0/Lab2.dll
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab2/obj/Debug/net7.0/refint/Lab2.dll
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab2/obj/Debug/net7.0/Lab2.pdb
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab2/obj/Debug/net7.0/ref/Lab2.dll

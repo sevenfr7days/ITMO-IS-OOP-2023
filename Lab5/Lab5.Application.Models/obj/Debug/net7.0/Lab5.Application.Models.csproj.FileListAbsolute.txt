@@ -1,0 +1,12 @@
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Models/bin/Debug/net7.0/Lab5.Application.Models.deps.json
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Models/bin/Debug/net7.0/Lab5.Application.Models.dll
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Models/bin/Debug/net7.0/Lab5.Application.Models.pdb
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Models/obj/Debug/net7.0/Lab5.Application.Models.csproj.AssemblyReference.cache
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Models/obj/Debug/net7.0/Lab5.Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Models/obj/Debug/net7.0/Lab5.Application.Models.AssemblyInfoInputs.cache
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Models/obj/Debug/net7.0/Lab5.Application.Models.AssemblyInfo.cs
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Models/obj/Debug/net7.0/Lab5.Application.Models.csproj.CoreCompileInputs.cache
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Models/obj/Debug/net7.0/Lab5.Application.Models.dll
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Models/obj/Debug/net7.0/refint/Lab5.Application.Models.dll
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Models/obj/Debug/net7.0/Lab5.Application.Models.pdb
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Models/obj/Debug/net7.0/ref/Lab5.Application.Models.dll

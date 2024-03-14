@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "e2SapmMP1lWEle9OBKosTtaM1yyqvdVTSfqDNRLok0KYFyGeYs5/U9fPc44rAEPwX4w/KG8Q5WIRAGgk5UrrOQ==",
+  "success": true,
+  "projectFilePath": "/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Abstractions/Lab5.Application.Abstractions.csproj",
+  "expectedPackageFiles": [
+    "/Users/komarovnikolai/.nuget/packages/sourcekit.analyzers.collections/1.0.4/sourcekit.analyzers.collections.1.0.4.nupkg.sha512",
+    "/Users/komarovnikolai/.nuget/packages/sourcekit.analyzers.enumerable/1.0.4/sourcekit.analyzers.enumerable.1.0.4.nupkg.sha512",
+    "/Users/komarovnikolai/.nuget/packages/sourcekit.analyzers.memberaccessibility/1.0.4/sourcekit.analyzers.memberaccessibility.1.0.4.nupkg.sha512",
+    "/Users/komarovnikolai/.nuget/packages/sourcekit.analyzers.nullable/1.0.4/sourcekit.analyzers.nullable.1.0.4.nupkg.sha512",
+    "/Users/komarovnikolai/.nuget/packages/sourcekit.analyzers.properties/1.0.4/sourcekit.analyzers.properties.1.0.4.nupkg.sha512",
+    "/Users/komarovnikolai/.nuget/packages/stylecop.analyzers/1.2.0-beta.507/stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+    "/Users/komarovnikolai/.nuget/packages/stylecop.analyzers.unstable/1.2.0.507/stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512"
+  ],
+  "logs": []
+}

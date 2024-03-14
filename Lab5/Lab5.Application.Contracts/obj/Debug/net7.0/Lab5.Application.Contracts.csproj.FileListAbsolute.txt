@@ -1,0 +1,15 @@
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/bin/Debug/net7.0/Lab5.Application.Contracts.deps.json
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/bin/Debug/net7.0/Lab5.Application.Contracts.dll
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/bin/Debug/net7.0/Lab5.Application.Contracts.pdb
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/bin/Debug/net7.0/Lab5.Application.Models.dll
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/bin/Debug/net7.0/Lab5.Application.Models.pdb
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/obj/Debug/net7.0/Lab5.Application.Contracts.csproj.AssemblyReference.cache
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/obj/Debug/net7.0/Lab5.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/obj/Debug/net7.0/Lab5.Application.Contracts.AssemblyInfoInputs.cache
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/obj/Debug/net7.0/Lab5.Application.Contracts.AssemblyInfo.cs
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/obj/Debug/net7.0/Lab5.Application.Contracts.csproj.CoreCompileInputs.cache
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/obj/Debug/net7.0/Lab5.Application.Contracts.csproj.CopyComplete
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/obj/Debug/net7.0/Lab5.Application.Contracts.dll
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/obj/Debug/net7.0/refint/Lab5.Application.Contracts.dll
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/obj/Debug/net7.0/Lab5.Application.Contracts.pdb
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab5/Lab5.Application.Contracts/obj/Debug/net7.0/ref/Lab5.Application.Contracts.dll

@@ -1,0 +1,23 @@
+using System;
+using Itmo.ObjectOrientedProgramming.Lab1.Entities.Deflectors;
+using Itmo.ObjectOrientedProgramming.Lab1.Models.ValueObject;
+
+namespace Itmo.ObjectOrientedProgramming.Lab1.Models.DeflectorModels;
+
+public class DeflectorType1 : IDeflector
+{
+    private const int FirstClassDamageResistance = 2;
+    private Hp _currentDamageResistance;
+
+    public DeflectorType1()
+    {
+        _currentDamageResistance = new Hp(FirstClassDamageResistance);
+    }
+
+    public Damage ReceiveDamageAndReturnRemainingDamage(Damage amountOfDamage)
+    {
+        int remainingDamage = Math.Max(0, amountOfDamage.Amount - _currentDamageResistance.Amount);
+        _currentDamageResistance = new Hp(Math.Max(0, _currentDamageResistance.Amount - amountOfDamage.Amount));
+        return new Damage.NormalDamage(remainingDamage);
+    }
+}

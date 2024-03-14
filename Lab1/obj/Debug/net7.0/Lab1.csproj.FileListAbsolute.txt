@@ -1,0 +1,12 @@
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab1/obj/Debug/net7.0/Lab1.csproj.AssemblyReference.cache
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab1/obj/Debug/net7.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab1/obj/Debug/net7.0/Lab1.AssemblyInfoInputs.cache
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab1/obj/Debug/net7.0/Lab1.AssemblyInfo.cs
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab1/obj/Debug/net7.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab1/bin/Debug/net7.0/Lab1.deps.json
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab1/bin/Debug/net7.0/Lab1.dll
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab1/bin/Debug/net7.0/Lab1.pdb
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab1/obj/Debug/net7.0/Lab1.dll
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab1/obj/Debug/net7.0/refint/Lab1.dll
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab1/obj/Debug/net7.0/Lab1.pdb
+/Users/komarovnikolai/RiderProjects/sevenfr7days/src/Lab1/obj/Debug/net7.0/ref/Lab1.dll
